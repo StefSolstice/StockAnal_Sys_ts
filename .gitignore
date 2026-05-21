@@ -84,7 +84,6 @@ dump.rdb
 .env.production.local 
 
 # md
-CLAUDE.md
 akshare.md
 .server.pid
 
